@@ -7,7 +7,7 @@
 View demo: 
 
 ```bash
-https://kodegohomework1-week2-bootstrapgrid.netlify.app
+https://kodegoexercise3-week2-onlinelibrary-bootstraponly.netlify.app/
 ```
 
 ## Technical Specifications:
